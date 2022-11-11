@@ -1,0 +1,127 @@
+{
+    "Filiais": [
+        {
+            "id": 1,
+            "local": "Rio de Janeiro",
+            "filial": "ipanema"       
+        },
+        {
+            "id": 2,
+            "local": "Rio de Janeiro",
+            "filial": "Teresópolis"
+        },
+        {
+            "id": 3,
+            "local": "Rio de Janeiro",
+            "filial": "Nova Friburgo"
+        },
+        {
+            "id": 4,
+            "local": "São Paulo",
+            "filial": "Jardim Paulista"    
+        },
+        {
+            "id": 5,
+            "local": "São Paulo",
+            "filial": "Ibirapuera"
+           
+        },
+        {
+            "id": 6,
+            "local": "São Paulo",
+            "filial": "Paulista"    
+        }
+    ],
+    "Apartamentos": [
+        {  
+           "id": 1,
+           "apartamentos": 20
+        
+        },
+        {
+           "id": 2,
+           "apartamentos": 20
+        },
+        {   
+            "id": 3,
+            "apartamentos": 40
+        },
+        {
+            "id": 4,
+            "apartamentos": 30
+        },
+        {
+            "id": 5,
+            "apartamentos": 40      
+        },
+        {
+            "id": 6,
+            "apartamentos": 10
+        }
+    ],
+    "Estacionamento": [
+        {  
+           "id": 1,
+           "estacionamento": "sim"
+        
+        },
+        {
+           "id": 2,
+           "estacionamento": "sim"
+          
+        },
+        {   
+            "id": 3,
+            "estacionamento": "sim"
+        
+        },
+        {
+            "id": 4,
+            "estacionamento": "sim"
+           
+        },
+        {
+            "id": 5,
+            "estacionamento": "sim"
+            
+        },
+        {
+            "id": 6,
+            "estacionamento": "sim"    
+        }
+    ],
+    "Piscina": [
+        {  
+           "id": 1,
+           "piscina": "sim"
+        
+        },
+        {
+           "id": 2,
+           "piscina": "sim"
+          
+        },
+        {   
+            "id": 3,
+            "piscina": "não"
+        
+        },
+        {
+            "id": 4,
+            "estacionamento": "sim"
+           
+        },
+        {
+            "id": 5,
+            "estacionamento": "não"
+            
+        },
+        {
+            "id": 6,
+            "estacionamento": "sim"    
+        }
+    ]
+}
+        
+
+    
